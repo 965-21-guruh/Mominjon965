@@ -1,2 +1,2 @@
 # Mominjon965
-Mominjon
+Yozilgan so'zlar konsolga chiqishi.
